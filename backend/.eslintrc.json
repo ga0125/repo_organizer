@@ -11,5 +11,8 @@
         "ecmaVersion": 12
     },
     "rules": {
+        "no-unused-expressions": 0,
+        "no-console": 0,
+        "array-callback-return": 0
     }
 }
