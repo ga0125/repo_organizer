@@ -35,7 +35,9 @@ To run this application you'll need install:
   *** 
   # Execution
 
-  1. To execute the backend, follow this commmand line:
+  1. Before to execute the commands below, change the **example.env** to .env on the both projects folders
+
+  2. To execute the backend, follow this commmand line:
   ```bash
     cd repo_organizer/backend/
     npm run dev #It will run on port 3838 as default
